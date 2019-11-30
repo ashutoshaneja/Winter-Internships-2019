@@ -4,7 +4,7 @@
 
 #### *Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?*
 
-> Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
+> Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science, Management, UX, Content Writing etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
 
 ## Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
 
