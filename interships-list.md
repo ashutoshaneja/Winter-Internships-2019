@@ -1,5 +1,5 @@
 ## Winter Internships 2019 ✔
-* List of winter internships where you can spend your christmas. *
+- *List of winter internships where you can spend your christmas.*
 # Utilize this Winter Season at the level best with awesome internships !! 😍
 
 # Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
