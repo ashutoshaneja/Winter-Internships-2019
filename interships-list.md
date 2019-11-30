@@ -64,7 +64,7 @@
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
 
 <!-- Image dfns -->
-[linkedin-image]: https://www.addthis.com/dietsite-assets/images/social-buttons/icon_linkedin-b00fc5db0f.svg
+[linkedin-image]: https://img.icons8.com/plasticine/2x/linkedin.png
 [linkedin-url]: https://www.linkedin.com/in/ashutosh-aneja/
 [tweet-image]: https://seeklogo.com/img/share-twitter.png
 [tweet-url]: https://seeklogo.com/img/share-twitter.png
