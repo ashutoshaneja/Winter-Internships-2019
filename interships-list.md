@@ -1,12 +1,12 @@
 # Winter Internships 2019 ✔
 ### - *List of winter internships where you can spend your christmas.*
-## Utilize this Winter Season at the level best with awesome internships !! 😍
+### Utilize this Winter Season at the level best with awesome internships !! 😍
 
-## Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
+## *Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?*
 
-Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
-
-: ## Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
+> Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
+---
+## Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
 - Qubole	Engineering Intern. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
 - IIT Indore	Research Intern. Apply [here](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions).
 - IISER Bhopal Research Intern. Apply [here](https://www.iiserb.ac.in/doaa/internship).
