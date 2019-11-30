@@ -4,9 +4,18 @@
 
 # Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
 
-Here are some opportunities at IITs, Startups etc. focused mainly on Research, AI, ML, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
+Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
 
-## Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
+# Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
+- Qubole	Engineering Intern. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
+- IIT Indore	Research Intern	http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions
+- IISER Bhopal	Research Intern	https://www.iiserb.ac.in/doaa/internship
+- IIT Roorkee	Research Intern	https://www.iitr.ac.in/dic/internship.html
+- ACM India	Winter School	https://india.acm.org/education/acm-india-winter-schools
+- IIT Mandi	Winter School	http://www.acslab.org/winterschool/home.html
+- IIIT Allahabad	Research Intern. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf)
+- National Human Rights Commission	Intern	http://nhrc.nic.in/training-programmes/short-term-internship-programme
+- WWF India	Intern	https://www.wwfindia.org/who_we_are/internship_at_wwf_india/
 
 - Research Intern	at IIT Roorkee. Apply [here](https://www.iitr.ac.in/dic/internship.html).
 - Machine Learning Internship in Pune at VRLab Technologies Private Limited. Apply [here](https://internshala.com/internship/detail/machine-learning-internship-in-pune-at-vrlab-technologies-private-limited1572666025).
@@ -26,7 +35,7 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 
 
-# All the best !! More opportunities to be updated, do keep a track of this repository !! 
+## All the best !! More opportunities to be updated, do keep a track of this repository !! 
 
-If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
-# P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
+### If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
+## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
