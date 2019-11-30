@@ -62,10 +62,10 @@
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
 
 ### Stalk me at below locations:
-[![.][linkedin-image]][linkedin-url] [@ashutosh-aneja](https://www.linkedin.com/in/ashutosh-aneja/), [![.][tweet-image]][tweet-url] [@ashuistic](https://twitter.com/ashuistic).
+[![.][linkedin-image]][linkedin-url] [![.][tweet-image]][tweet-url]
 
 <!-- Image dfns -->
-[linkedin-image]: https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/linkedin-256.png
+[linkedin-image]: https://cdn2.iconfinder.com/data/icons/capsocial-square-flat-3/500/linkedin-128.png
 [linkedin-url]: https://www.linkedin.com/in/ashutosh-aneja/
-[tweet-image]: https://seeklogo.com/img/share-twitter.png
-[tweet-url]: https://seeklogo.com/img/share-twitter.png
+[tweet-image]: https://cdn2.iconfinder.com/data/icons/capsocial-square-flat-3/500/twitter-256.png
+[tweet-url]: http://twitter.com/ashuistic
