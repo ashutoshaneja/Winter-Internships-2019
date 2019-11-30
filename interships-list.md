@@ -59,6 +59,8 @@
 ### If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 
 ### Stalk me on LinkedIn [@ashutosh-aneja](https://www.linkedin.com/in/ashutosh-aneja/), twitter [@ashuistic](https://twitter.com/ashuistic).
-## [![@ashutosh-aneja][LinkedIn]][https://www.linkedin.com/in/ashutosh-aneja/]
+
+[![NPM Version][npm-image]][npm-url]
+
 #### Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible.
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
