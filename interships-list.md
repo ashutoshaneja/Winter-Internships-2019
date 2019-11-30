@@ -1,5 +1,5 @@
 ## Winter Internships 2019 ✔
-List of winter internships where you can spend your christmas.
+* List of winter internships where you can spend your christmas. *
 # Utilize this Winter Season at the level best with awesome internships !! 😍
 
 # Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
@@ -27,4 +27,6 @@ Here are some opportunities at IITs, Startups etc. focused mainly on Research, A
 
 
 # All the best !! More opportunities to be updated, do keep a track of this repository !! 
+
+If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 # P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
