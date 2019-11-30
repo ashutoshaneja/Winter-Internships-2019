@@ -1,22 +1,21 @@
-## Winter Internships 2019 ✔
-- *List of winter internships where you can spend your christmas.*
-# Utilize this Winter Season at the level best with awesome internships !! 😍
+# Winter Internships 2019 ✔
+### - *List of winter internships where you can spend your christmas.*
+## Utilize this Winter Season at the level best with awesome internships !! 😍
 
-# Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
+## Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?
 
 Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
 
 # Let's advance our career !! Wishing you all a " HAPPY NEW YEAR " in advance.
 - Qubole	Engineering Intern. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
-- IIT Indore	Research Intern	http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions
-- IISER Bhopal	Research Intern	https://www.iiserb.ac.in/doaa/internship
-- IIT Roorkee	Research Intern	https://www.iitr.ac.in/dic/internship.html
-- ACM India	Winter School	https://india.acm.org/education/acm-india-winter-schools
-- IIT Mandi	Winter School	http://www.acslab.org/winterschool/home.html
-- IIIT Allahabad	Research Intern. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf)
-- National Human Rights Commission	Intern	http://nhrc.nic.in/training-programmes/short-term-internship-programme
-- WWF India	Intern	https://www.wwfindia.org/who_we_are/internship_at_wwf_india/
-
+- IIT Indore	Research Intern. Apply [here](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions).
+- IISER Bhopal Research Intern. Apply [here](https://www.iiserb.ac.in/doaa/internship).
+- IIT Roorkee	Research Intern. Apply [here](https://www.iitr.ac.in/dic/internship.html).
+- ACM India	Winter School. Apply [here](https://india.acm.org/education/acm-india-winter-schools).
+- IIT Mandi	Winter School. Apply [here](http://www.acslab.org/winterschool/home.html).
+- IIIT Allahabad	Research Intern. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
+- National Human Rights Commission	Intern. Apply [here](http://nhrc.nic.in/training-programmes/short-term-internship-programme).
+- WWF India	Intern. Apply [here](https://www.wwfindia.org/who_we_are/internship_at_wwf_india/).
 - Research Intern	at IIT Roorkee. Apply [here](https://www.iitr.ac.in/dic/internship.html).
 - Machine Learning Internship in Pune at VRLab Technologies Private Limited. Apply [here](https://internshala.com/internship/detail/machine-learning-internship-in-pune-at-vrlab-technologies-private-limited1572666025).
 - Research Intern	at IIT Kanpur. Apply [here](https://www.teqipiitk.in/workshop/2019/wi19/).
