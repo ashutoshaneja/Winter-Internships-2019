@@ -65,7 +65,7 @@
 [![.][linkedin-image]][linkedin-url] [![.][tweet-image]][tweet-url]
 
 <!-- Image dfns -->
-[linkedin-image]: https://cdn2.iconfinder.com/data/icons/capsocial-square-flat-3/500/linkedin-128.png
+[linkedin-image]: https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-21-128.png
 [linkedin-url]: https://www.linkedin.com/in/ashutosh-aneja/
-[tweet-image]: https://cdn2.iconfinder.com/data/icons/capsocial-square-flat-3/500/twitter-256.png
+[tweet-image]: https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/Twitter-128.png
 [tweet-url]: http://twitter.com/ashuistic
