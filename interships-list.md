@@ -1,8 +1,8 @@
-# Winter Internships 2019 ✔
+# Winter Internships 2019 ✔💻
 ### - *List of winter internships where you can spend your christmas.*
 ### Utilize this Winter Season at the level best with awesome internships !! 😍
 
-## *Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?*
+#### *Are you looking for Internships this Winter? Do you want to start 2020 with awesome career opportunities ?*
 
 > Here are some opportunities at IITs, Startups etc. focused on Research, SDLC, Data Structures, AI, ML, Web development, Data Science etc. This list of internships will be updated with more such opportunities, so do keep a track of this repository to grab something awesome for your career !!
 
@@ -59,5 +59,6 @@
 ### If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 
 ### Stalk me on LinkedIn [@ashutosh-aneja](https://www.linkedin.com/in/ashutosh-aneja/), twitter [@ashuistic](https://twitter.com/ashuistic).
+Tweet<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 #### Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible.
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
