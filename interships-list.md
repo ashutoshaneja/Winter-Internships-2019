@@ -59,6 +59,6 @@
 ### If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 
 ### Stalk me on LinkedIn [@ashutosh-aneja](https://www.linkedin.com/in/ashutosh-aneja/), twitter [@ashuistic](https://twitter.com/ashuistic).
-Tweet<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## [Tweet it](<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="This winter let&#39;s do some awesome internships, Check out this amazing repository for a list of winter internships 2019. Let&#39;s make the best use of these winters! :)" data-url="https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md" data-hashtags="internships #winterinterns " data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>)
 #### Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible.
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
