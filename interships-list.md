@@ -54,11 +54,11 @@
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 
 ---
-### ```All the best !! More opportunities to be updated, do keep a track of this repository !!``` 
+#### ```All the best !! More opportunities to be updated, do keep a track of this repository !!``` 
 
 ## If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 
-#### Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible.
+#### _Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible._
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
 
 ### Stalk me at below locations:
