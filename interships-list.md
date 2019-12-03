@@ -52,6 +52,7 @@
 - Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
+- Winter Software Developer Internship (Ahmedabad Location). Apply [here](https://neuvoo.co.in/view/?id=a668add90a7c&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadfaddabddagdd8badfeadcbadc9dd7bddgfadf3de9cacdfec3ddcg3e&splitab=1&action=emailAlert).
 
 ---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
