@@ -19,8 +19,8 @@
 - WWF India	Intern. Apply [here](https://www.wwfindia.org/who_we_are/internship_at_wwf_india/).
 - Research Intern	at IIT Roorkee. Apply [here](https://www.iitr.ac.in/dic/internship.html).
 - Machine Learning Internship in Pune at VRLab Technologies Private Limited. Apply [here](https://internshala.com/internship/detail/machine-learning-internship-in-pune-at-vrlab-technologies-private-limited1572666025).
-/*- Research Intern	at IIT Kanpur. Apply [here](https://www.teqipiitk.in/workshop/2019/wi19/).
-- Research Intern	at IIT Bhubaneswar. Apply [here](http://webapps.iitbbs.ac.in/internship-application/index.php)*/
+<!--   - Research Intern	at IIT Kanpur. Apply [here](https://www.teqipiitk.in/workshop/2019/wi19/).
+- Research Intern	at IIT Bhubaneswar. Apply [here](http://webapps.iitbbs.ac.in/internship-application/index.php)  -->
 - Data Analytics Internship in Noida at VcubeC Data Analytics Private Limited. Apply [here](https://internshala.com/internship/detail/data-analytics-internship-in-noida-at-vcubec-data-analytics-private-limited1572669452).
 - Research Intern	at IIT Indore. Apply [here](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions).
 - Research Intern at IISER Bhopal. Apply [here](https://www.iiserb.ac.in/doaa/internship).
