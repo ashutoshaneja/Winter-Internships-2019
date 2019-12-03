@@ -53,6 +53,7 @@
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
 - Winter Software Developer Internship (Ahmedabad Location). Apply [here](https://neuvoo.co.in/view/?id=a668add90a7c&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadfaddabddagdd8badfeadcbadc9dd7bddgfadf3de9cacdfec3ddcg3e&splitab=1&action=emailAlert).
+- Asia Policy Intern. Apply [here](https://neuvoo.co.in/view/?id=bc248ea82c1b&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadeaaddbddegddcbdd8eadbbadf9dd8bddefadd3defcacefec3ddcg3e&splitab=1&action=emailAlert).
 
 ---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
