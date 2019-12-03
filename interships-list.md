@@ -52,11 +52,17 @@
 - Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
-- Winter Software Developer Internship (Ahmedabad Location). Apply [here](https://neuvoo.co.in/view/?id=a668add90a7c&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadfaddabddagdd8badfeadcbadc9dd7bddgfadf3de9cacdfec3ddcg3e&splitab=1&action=emailAlert).
+- Winter Software Developer Intern at Alive Tech Services (Ahmedabad Location). Apply [here](https://neuvoo.co.in/view/?id=a668add90a7c&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadfaddabddagdd8badfeadcbadc9dd7bddgfadf3de9cacdfec3ddcg3e&splitab=1&action=emailAlert).
 - Asia Policy Intern. Apply [here](https://neuvoo.co.in/view/?id=bc248ea82c1b&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadeaaddbddegddcbdd8eadbbadf9dd8bddefadd3defcacefec3ddcg3e&splitab=1&action=emailAlert).
 - United Nations Intern. Apply [here](https://neuvoo.co.in/view/?from=page-e-related&id=00029df2b90c&lang=en&k=asia+policy+intern&newjob=yes&splitab=1&action=emailAlert).
 - Research and Development Internship. Apply [here](https://neuvoo.co.in/view/?jpos=6&jp=1&id=f641fb0a13a0&lang=en&k=remote+intern&splitab=1&action=emailAlert).
 - Flutter Mobile & Web Developer. Apply [here](https://neuvoo.co.in/view/?jpos=12&jp=1&id=835287c170cc&lang=en&k=remote+intern&splitab=1&action=emailAlert).
+- Digital Marketing Internship at Pragmatic Leaders. Apply [here](https://neuvoo.co.in/view/?jpos=17&jp=1&id=af66eb30957a&lang=en&k=remote+intern&splitab=1&action=emailAlert).
+- QA Intern at Irdeto. Apply [here](https://neuvoo.co.in/view/?jpos=15&jp=1&id=ceea5e226e37&lang=en&k=remote+intern).
+- Content Development Internship at Pragmatic Leaders. Apply [here](https://neuvoo.co.in/view/?jpos=19&jp=1&id=bd9990d8d4aa&lang=en&k=remote+intern&splitab=1&action=emailAlert).
+- Java Developer Intern at iSmartRecruit. Apply [here](https://neuvoo.co.in/view/?id=9252bf43d559&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gdd73dee3deb3deebaaeda9a4dacfdadaaac3deb3debcdd7bed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
+- Full Stack Javascript Developer at iSmartRecruit. Apply [here](https://neuvoo.co.in/view/?id=f29e813ea6d4&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gada3dee3de73aebbda8dd9f4dadfaabaaaf3dea3aeccddcbed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
+- Remote Web Developer. Apply [here] (https://neuvoo.co.in/view/?id=e3014d5942c6&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gadb3ded3deg3defbdacda9c4dabfda7adac3dee3aedcddabed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
 
 ---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
