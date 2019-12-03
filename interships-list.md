@@ -62,7 +62,7 @@
 - Content Development Internship at Pragmatic Leaders. Apply [here](https://neuvoo.co.in/view/?jpos=19&jp=1&id=bd9990d8d4aa&lang=en&k=remote+intern&splitab=1&action=emailAlert).
 - Java Developer Intern at iSmartRecruit. Apply [here](https://neuvoo.co.in/view/?id=9252bf43d559&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gdd73dee3deb3deebaaeda9a4dacfdadaaac3deb3debcdd7bed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
 - Full Stack Javascript Developer at iSmartRecruit. Apply [here](https://neuvoo.co.in/view/?id=f29e813ea6d4&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gada3dee3de73aebbda8dd9f4dadfaabaaaf3dea3aeccddcbed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
-- Remote Web Developer. Apply [here] (https://neuvoo.co.in/view/?id=e3014d5942c6&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gadb3ded3deg3defbdacda9c4dabfda7adac3dee3aedcddabed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
+- Remote Web Developer at MonetizeMore. Apply [here](https://neuvoo.co.in/view/?id=e3014d5942c6&oapply=org_v2019-12&source=jobisjob_bulk&utm_source=partner&utm_medium=jobisjob_bulk&puid=gadb3ded3deg3defbdacda9c4dabfda7adac3dee3aedcddabed3dddeded3dcdbdbdbbbde9ed3bddf&splitab=1&action=emailAlert).
 
 ---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
