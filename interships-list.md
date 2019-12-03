@@ -58,9 +58,9 @@
 
 ## If you liked it? :star: it and [share](https://github.com/ashutoshaneja/Winter-Internships-2019/blob/master/interships-list.md) with a fellow coder/developer!
 
-##### Lot of Credit goes to Team [InternClick](http://bit.ly/2MIs8pf) for their contribution in this repo.
+#### Lot of Credit goes to Team [InternClick](http://bit.ly/2MIs8pf) for their contribution in this repo.
 
-#### _Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible._
+### _Application dates might have passed for some of these internships, so keep a check & Apply as soon as possible._
 ## P.S: If you are aware of any opportunity, feel free to send a pull request. Let's be helpful to everyone! 😎
 
 ### Stalk me at below locations:
