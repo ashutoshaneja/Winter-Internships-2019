@@ -12,7 +12,6 @@
 - IIT Indore	Research Intern. Apply [here](http://people.iiti.ac.in/~sdhina/index.php/opportunities1/internshippositions).
 - IISER Bhopal Research Intern. Apply [here](https://www.iiserb.ac.in/doaa/internship).
 - IIT Roorkee	Research Intern. Apply [here](https://www.iitr.ac.in/dic/internship.html).
-- ACM India	Winter School. Apply [here](https://india.acm.org/education/acm-india-winter-schools).
 - IIT Mandi	Winter School. Apply [here](http://www.acslab.org/winterschool/home.html).
 - IIIT Allahabad	Research Intern. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - National Human Rights Commission	Intern. Apply [here](http://nhrc.nic.in/training-programmes/short-term-internship-programme).
@@ -47,7 +46,6 @@
 - TapChief	Software Engineering Interns (6month),	Apply [here](https://www.tapchief.com/h/tech-interns).
 - Computer Vision Internship in Delhi at Wobot Intelligence Private Limited. Apply [here](https://internshala.com/internship/detail/computer-vision-internship-in-delhi-at-wobot-intelligence-private-limited1572677537).
 - Python Intern for Flask/Django in Jaipur at Makerobos Innovation Labs. Apply [here](https://www.hirist.com/j/makerobos-innovation-labs-python-intern-flask-django-0-2-yrs-510702.html).
-- Engineering Intern at Qubole. Apply [here](https://jobs.lever.co/qubole/2268bded-f717-4dbf-b520-239fd487fb4c/apply).
 - Winter School	at IIT Mandi. Apply [here](http://www.acslab.org/winterschool/home.html).
 - Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
