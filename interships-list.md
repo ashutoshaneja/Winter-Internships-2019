@@ -77,7 +77,7 @@
 - Grofers Software Engineering Intern (6 Months). Apply [here](https://grofers.recruiterbox.com/jobs/fk03th8/).
 - Frontend Developer Intern at HeadOut. Apply [here](https://www.headout.com/careers/job/272106).
 - Design Intern at HeadOut. Apply [here](https://www.headout.com/careers/job/293160).
-- Business Development Intern. Apply [here](https://www.klook.com/careers?location=India&id=job_20191118100357_PKBIBXTYX1GT3UHB).
+- Business Development Intern. Apply [here](https://www.klook.com/careers?department=Sales%20%26%20Business%20Development&id=job_20191118100357_PKBIBXTYX1GT3UHB).
 - Winter Intern at AIFoundry. Apply [here](https://www.linkedin.com/posts/ai-foundry-ai_internships-artificialintelligence-bangalorejobs-activity-6608612581915582464-ZSea).
 - Product Design Intern(6 month) at Zomato. Apply [here](https://www.linkedin.com/jobs/view/1642499708/?alternateChannel=jymbii).
 ---
