@@ -50,6 +50,8 @@
 - Research Intern	at IIIT Allahabad. Apply [here](https://www.iiita.ac.in/downloads/announcements/uploads/2019%20April%20internship%20dissertation526.pdf).
 - Winter School	at IIT Bombay. Apply [here](https://sat-smt.in/registration.html).
 - Winter School at IIT Madras. Apply [here](https://ekonnect.net/events).
+---
+```Latest opportunities added on 02-Dec-19```
 - Winter Software Developer Intern at Alive Tech Services (Ahmedabad Location). Apply [here](https://neuvoo.co.in/view/?id=a668add90a7c&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadfaddabddagdd8badfeadcbadc9dd7bddgfadf3de9cacdfec3ddcg3e&splitab=1&action=emailAlert).
 - Asia Policy Intern. Apply [here](https://neuvoo.co.in/view/?id=bc248ea82c1b&source=linkedin&utm_source=partner&utm_medium=linkedin&puid=fadeaaddbddegddcbdd8eadbbadf9dd8bddefadd3defcacefec3ddcg3e&splitab=1&action=emailAlert).
 - United Nations Intern. Apply [here](https://neuvoo.co.in/view/?from=page-e-related&id=00029df2b90c&lang=en&k=asia+policy+intern&newjob=yes&splitab=1&action=emailAlert).
