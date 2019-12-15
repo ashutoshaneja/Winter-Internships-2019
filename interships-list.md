@@ -70,7 +70,14 @@
 - ReactJS Intern at Spacenos. Drop your resumes at _yug@spacenos.com with subject : ReactJS Intern_
 - Android/iOS Interns. Apply [here](https://www.linkedin.com/posts/anant-mittal-boss_hiring-winter-interns-our-company-hiring-activity-6605509630481309696-N6O-)
 - Marketing Intern. Apply [here](https://internshala.com/internship/detail/marketing-internship-in-mumbai-at-times-internet-limited1575626227)
-
+---
+```Latest opportunities added on 16-Dec-19```
+- Grofers Software Engineering Intern (6 Months). Apply [here](https://grofers.recruiterbox.com/jobs/fk03th8/).
+- Frontend Developer Intern at HeadOut. Apply [here](https://www.headout.com/careers/job/272106).
+- Design Intern at HeadOut. Apply [here](https://www.headout.com/careers/job/293160).
+- Business Development Intern. Apply [here](https://www.klook.com/careers?location=India&id=job_20191118100357_PKBIBXTYX1GT3UHB).
+- Winter Intern at AIFoundry. Apply [here](https://www.linkedin.com/posts/ai-foundry-ai_internships-artificialintelligence-bangalorejobs-activity-6608612581915582464-ZSea).
+- Product Design Intern(6 month) at Zomato. Apply [here](https://www.linkedin.com/jobs/view/1642499708/?alternateChannel=jymbii).
 ---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
 
