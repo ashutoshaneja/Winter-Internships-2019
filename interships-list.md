@@ -81,6 +81,10 @@
 - Winter Intern at AIFoundry. Apply [here](https://www.linkedin.com/posts/ai-foundry-ai_internships-artificialintelligence-bangalorejobs-activity-6608612581915582464-ZSea).
 - Product Design Intern(6 month) at Zomato. Apply [here](https://www.linkedin.com/jobs/view/1642499708/?alternateChannel=jymbii).
 ---
+```Latest opportunities added on 17-Dec-19```
+- Crio Launch, Internship Program. Apply [here](http://www.crio.do/launch/?utm_source=refer_p&utm_campaign=59B86).
+- Management trainee Winter Intern. Apply [here](https://www.linkedin.com/jobs/view/1628079169/)
+---
 ### ```All the best!! More opportunities would be updated soon, do keep a track of this repository!!``` 
 
 # Found some amazing Summer Internships, soon I'll create separate repo for it too. Keep Supporting! 😎
